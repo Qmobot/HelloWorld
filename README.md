@@ -12,13 +12,13 @@ This repo is free to use and to cloned.
 
 #### If Qnix user
 
-1. Open a terminal and type: `git clone https://github.com/Qmobot/HelloWorld && HelloWorld/boards && ./install.sh`
+1. Open a terminal and type: `git clone https://github.com/Qmobot/HelloWorld && cd HelloWorld/boards && ./install.sh`
 2. Then open the folder in Vscode.
 
 #### If Ubuntu-Debian user
 
 1. Open terminal and install git client: `sudo apt install git`
-1. Open a terminal and type: `git clone https://github.com/Qmobot/HelloWorld && HelloWorld/boards && ./install.sh`
+1. Open a terminal and type: `git clone https://github.com/Qmobot/HelloWorld && cd  HelloWorld/boards && ./install.sh`
 3. Then open the folder in prefered PlatformIO-based IDE.
 
 #### Contacts
